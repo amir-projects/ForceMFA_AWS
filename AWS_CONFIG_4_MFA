@@ -1,0 +1,3 @@
+[profile <USER>]
+region=us-east-1
+mfa_serial=<ARN>
