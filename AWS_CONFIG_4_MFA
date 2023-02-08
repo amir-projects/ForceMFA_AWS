@@ -1,3 +1,7 @@
 [profile <USER>]
 region=us-east-1
 mfa_serial=<ARN>
+
+
+---
+https://github.com/99designs/aws-vault#installing
